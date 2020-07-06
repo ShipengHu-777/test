@@ -24,3 +24,4 @@ procedure main () returns integer {
 
     return 0;
 }
+changed
